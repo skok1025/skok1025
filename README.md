@@ -5,9 +5,9 @@
 
 |part|something is my forte|
 |:------:|---|
-|language|Java, PHP|
-|framework|Spring|
-|RDB|Mariadb|
+|language|Java, PHP, Python|
+|framework|Spring, FastAPI|
+|RDB|Mariadb, Postgreql|
 |Cache|Redis|
 |Queue|RabbitMq|
 
