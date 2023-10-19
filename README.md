@@ -5,7 +5,7 @@
 
 |part|something is my forte|
 |:------:|---|
-|language|Java, PHP, Python|
+|language|Java, Python, PHP|
 |framework|Spring, FastAPI|
 |RDB|Mariadb, Postgreql|
 |Cache|Redis|
